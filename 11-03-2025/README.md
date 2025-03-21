@@ -19,7 +19,7 @@ A screen recording demonstration of the application flow is available, showing t
 Contact
 For any questions or support, please contact:
 
-Email: imeshamadhumali31@example.com
+Email: imeshamadhumali31@gmail.com
 GitHub: [github.com/yourusername](https://github.com/ImeshaMadhumali)
 
 
