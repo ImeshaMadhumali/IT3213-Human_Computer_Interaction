@@ -14,7 +14,7 @@ A screen recording demonstration of the application flow is available, showing t
 ### 📞Contact<br><br>
 For any questions or support, please contact:<br>
 ✉️Email: imeshamadhumali31@gmail.com<br>
-👩‍💻GitHub: [github.com/yourusername](https://github.com/ImeshaMadhumali)
+👩‍💻GitHub: https://github.com/ImeshaMadhumali
 
 
 
