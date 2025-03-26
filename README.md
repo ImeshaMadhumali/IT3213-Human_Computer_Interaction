@@ -23,6 +23,18 @@ Before getting started, ensure you have the following:<br>
 ✅ Basic knowledge of HTML, CSS, JavaScript – Essential for web development.<br>
 ✅ Code Editor (VS Code recommended)  <br><br>
 
+### 📂 Project Structure
+```
+📦 Human_Comuter_Interaction/
+ ┣━━━━━━━ 📂 11-03-2025/
+ ┃          ┗ Exercise.mp4
+ ┣━━━━━━━ 📂 18-03-2025/
+ ┃          ┗ Exercise2.mp4
+ ┣━━━━━━━ 📂 25-03-2025/
+ ┃          ┗ Exercise3.mp4
+
+```
+
 ### 🔧Installation & Running the Project<br><br>
 1. Clone the Repository<br>
 
