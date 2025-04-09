@@ -27,11 +27,22 @@ Before getting started, ensure you have the following:<br>
 ```
 📦 Human_Comuter_Interaction/
  ┣━━━━━━━ 📂 Day 01 - 11.03.2025/
- ┃          ┗ Exercise.mp4
+ |          ┗ act1.rp
+ ┃          ┗ Exercise1.mp4
  ┣━━━━━━━ 📂 Day 02 - 18.03.2025/
+ |          ┗ act.rp
  ┃          ┗ Calculator.mp4
  ┣━━━━━━━ 📂 Day 03 - 25.03.2025/
+ |          ┗ act1.rp
  ┃          ┗ Exercise3.mp4
+ ┣━━━━━━━ 📂 Day 04 - 01.04.2025/
+ |          ┗ CalculatorFinal(1).rp
+ ┃          ┗ CalculatorAll.mp4
+ ┣━━━━━━━ 📂 Day 05 - 08.04.2025/
+ |          ┗ Scroll Fixed.rp
+ ┃          ┗ ScrollView.mp4
+ |          ┗ pageload.rp
+ ┃          ┗ Exercise5.mp4
 
 ```
 
