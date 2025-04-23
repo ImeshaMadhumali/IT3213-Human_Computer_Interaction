@@ -43,6 +43,9 @@ Before getting started, ensure you have the following:<br>
  ┃          ┗ ScrollView.mp4
  |          ┗ pageload.rp
  ┃          ┗ Exercise5.mp4
+ ┣━━━━━━━ 📂 Day 06 - 22.04.2025/
+ |          ┗ SidePanel.rp
+ ┃          ┗ SidePanel.mp4
 
 ```
 
