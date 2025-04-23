@@ -1,7 +1,7 @@
-### 🚀Overview
+### 🚀 Overview
 This project demonstrates how a dynamic panel slides in from the side when a button is clicked. It uses animations and interactions to show/hide the panel, often for menus or settings.
 
-### 📝 Instruction Given
+### 📝 Instructions Given
 
 1.Create a dynamic panel and position it on the left side of the screen<br>
 2.Create a second panel with increased width (named "side menu")<br>
