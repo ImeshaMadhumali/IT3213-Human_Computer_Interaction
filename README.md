@@ -46,6 +46,12 @@ Before getting started, ensure you have the following:<br>
  ┣━━━━━━━ 📂 Day 06 - 22.04.2025/
  |          ┗ SidePanel.rp
  ┃          ┗ SidePanel.mp4
+ ┣━━━━━━━ 📂 Day 07 - 20.05.2025/
+ |          ┗ quickshare.rp
+ ┃          ┗ quickshare.mp4
+ |
+ 
+ 
 
 ```
 
