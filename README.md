@@ -49,7 +49,15 @@ Before getting started, ensure you have the following:<br>
  ┣━━━━━━━ 📂 Day 07 - 20.05.2025/
  |          ┗ quickshare.rp
  ┃          ┗ quickshare.mp4
- |
+ ┣━━━━━━━ 📂 Day 08 - 27.05.2025/
+ |          ┗ segmentcontrol.rp
+ ┃          ┗ segment control.mp4
+ ┣━━━━━━━ 📂 Day 09 - 30.05.2025/
+ |          ┗ tab bar navigation.rp
+ ┃          ┗ tab bar navigation.mp4
+ ┣━━━━━━━ 📂 Day 10 - 03.06.2025/
+ |          ┗ floatactionbtn.rp
+ ┃          ┗ float action button.mp4
  
  
 
